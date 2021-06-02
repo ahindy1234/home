@@ -47,11 +47,11 @@ const mainBody = {
 const about = {
   show: true,
   heading: "About Me",
-  imageLink: require("../editable-stuff/hashirshoaeb.png"),
+  imageLink: require("../editable-stuff/PROFILE_PIC.jpg"),
   imageSize: 375,
   message:
     "My name is Ali Hindy. I’m a current undergrad at Stanford University. I'm most passionate about helping the community and dispelling inequality by using the wonderful tools of computer science, and my goal is to pursue this passion within the field of machine learning. In my free time I like working on open source projects.",
-  resume: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
+  resume: require("../editable-stuff/Ali Hindy Resume (JUN 2 LAST UPDATE).pdf"),
 };
 
 // PROJECTS SECTION
@@ -123,7 +123,7 @@ const getInTouch = {
   heading: "Get In Touch",
   message:
     "I'm currently looking for full-time Software Engineering or Machine Learning opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
-  email: "hashirshoaeb@gmail.com",
+  email: "ahindy@stanford.edu",
 };
 
 const experiences = {
