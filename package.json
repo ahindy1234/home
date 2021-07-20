@@ -1,7 +1,7 @@
 {
   "name": "developers-portfolio",
-  "description": "A personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects.",
-  "homepage": "https://ahindy1234.github.io/home"  ,
+  "description": "The professional website of Verified Sports Marketing - a marketing platform for college athletes.",
+  "homepage": "https://verifiedsportsmarketing.com",
   "version": "2.0.0",
   "private": true,
   "author": {
