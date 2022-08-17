@@ -10,7 +10,7 @@ const mainBody = {
   middleName: "",
   lastName: "Hindy",
   message:
-    " Lifelong learner. Passionate about machine learning, NLP, deep learning, and more.",
+    " Lifelong learner. Passionate about machine learning, finance, NLP, deep learning, and more.",
   icons: [
     {
       image: "fa-github",
@@ -47,7 +47,7 @@ const about = {
   imageLink: require("../editable-stuff/hashirshoaeb.png"),
   imageSize: 375,
   message:
-    "My name is Ali Hindy. I’m a current undergrad at Stanford University pursuing a degree in Mathematics. I'm most passionate about leveraging the tools of computer science for social good, and my goal is to pursue this passion within the field of machine learning. In my free time I like working on open source projects or startupts, namely Quantum Computing Frameworks (like Tequila) or edtech platforms.",
+    "My name is Ali Hindy. I’m a current undergrad at Stanford University pursuing a degree in Mathematics. I'm most passionate about leveraging the tools of computer science, finance, and mathematics to gain insight on the world around us and help valuable companies deliver amazing products, and my goal is to pursue this passion within the intersection of these fields. In my free time I like working on open source projects, investing, or startups, namely Quantum Computing Frameworks (like Tequila) or analyzing companies using DCFs and sensitivity analysis.",
   resume: require("../editable-stuff/Ali_Hindy_Stanford_Resume.pdf"),
 }
 
@@ -127,7 +127,7 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I'm currently looking for full-time Software Engineering or Machine Learning opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
+    "I'm currently looking for Software Engineering, Quantitative Research, or Machine Learning internship / new grad opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
   email: "ahindy@stanford.edu",
 }
 
@@ -141,9 +141,9 @@ const experiences = {
       date: "June 2022 – August 2022",
     },
     {
-      role: "Student Researcher @ Stanford Autonomous Systems Lab",
+      role: "Undergraduate Student Researcher @ Stanford Autonomous Systems Lab",
       companylogo: require("../assets/img/asl.png"),
-      date: "June 2021 – August 2021",
+      date: "Nov 2021 – Present",
     },
     {
       role: "Data Science & Software Engineering Intern @ Point Pickup ",
